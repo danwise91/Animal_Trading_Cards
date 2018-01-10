@@ -1,0 +1,29 @@
+/* add your CSS here */
+#border {
+	width:300px;
+	border-style: ridge; 
+	border-color: grey;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.bordertwo{
+	border-style: solid; 
+	border-color: grey;
+	padding-bottom: 10px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.pic{
+	width: 300px;
+	padding-bottom: 10px;
+}
+
+.list{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
